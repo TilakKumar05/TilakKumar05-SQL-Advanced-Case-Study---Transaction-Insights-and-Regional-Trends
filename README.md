@@ -17,16 +17,22 @@
 
 a. **State-wise Sales Analysis:**
 - Identified states with transactions after 2005.
+  
 b. **Top Performing States for a Specific Manufacturer:**
 - Analyzed transaction data for "Samsung" in the US to determine the state with maximum product sales.
+  
 c. **Transaction Density by Location:**
 - Examined zip codes with the highest number of customer transactions for specific product models.
+  
 d. **Revenue Analysis:**
 - Combined revenue generation analysis across different categories like "Electronics" and "Clothing".
+  
 e. **Return Patterns:**
 - Insights into product categories with the highest returns over specified periods.
+  
 f. **Customer Segmentation:**
 - Segregated customers based on age groups, transaction frequency, and categories of interest.
+  
 g. **Top-Selling Sub-Categories:**
 - Identified sub-categories with the maximum sales and their respective percentages of returns.
   
