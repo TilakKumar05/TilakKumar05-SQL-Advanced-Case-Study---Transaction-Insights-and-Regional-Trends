@@ -1,6 +1,6 @@
 # TilakKumar05-SQL-Advanced-Case-Study---Transaction-Insights-and-Regional-Trends
 
- **Project Overview**
+1. **Project Overview**
 **Title: SQL Advanced Case Study**
 **Description:** This repository contains an advanced SQL case study focusing on business analytics, involving data extraction, transformation, and insights generation. The case study utilizes normalized database schemas to answer key business questions.
 
